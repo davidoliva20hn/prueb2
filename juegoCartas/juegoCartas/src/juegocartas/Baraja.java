@@ -5,6 +5,17 @@ import java.util.Collections;
 
 public class Baraja {
     ArrayList<Carta> cartas=new ArrayList();
+    /*
+    efvutv
+    ev
+    erv
+    ev
+    e
+    v
+    eve
+    ve
+    vrvrv
+    */
 
     public Baraja() {
         String [] palos={"♦","♣","♠","♥"};//alt 3-6
